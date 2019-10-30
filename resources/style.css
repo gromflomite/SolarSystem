@@ -1,0 +1,201 @@
+* {
+    margin: 0 auto;
+}
+
+html {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+    background-color: brown;
+    position: sticky;
+    top: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    font-size: 1.8rem;
+    color: white;
+    max-height: 5.2rem;
+}
+
+nav img {
+    width: 12%;
+    height: auto;
+}
+
+.planets img {
+    width: 60%;
+    height: auto;
+}
+
+.planets h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    font-style: italic
+}
+
+
+/* Mercury */
+
+.Mercury {
+    display: flex;
+    background-color: gold;
+    align-items: center;
+}
+
+.Mercury p {
+    text-align: justify;
+    padding: 1rem;
+    padding-top: 3rem;
+    font-size: 1.5rem;
+}
+
+.Mercury img {
+    order: 1;
+}
+
+.Mercury .text {
+    order: 2;
+}
+
+
+/* Venus */
+
+.Venus {
+    display: flex;
+    background-color: brown;
+    color: white;
+    align-items: center;
+}
+
+.Venus p {
+    text-align: justify;
+    padding: 1rem;
+    padding-top: 3rem;
+    font-size: 1.5rem;
+}
+
+
+/* Earth */
+
+.Earth {
+    display: flex;
+    background-color: yellow;
+    align-items: center;
+}
+
+.Earth p {
+    text-align: justify;
+    padding: 1rem;
+    padding-top: 3rem;
+    font-size: 1.5rem;
+}
+
+.Earth img {
+    order: 1;
+}
+
+.Earth .text {
+    order: 2;
+}
+
+
+/* Mars */
+
+.Mars {
+    display: flex;
+    background-color: brown;
+    color: white;
+    align-items: center;
+}
+
+.Mars p {
+    text-align: justify;
+    padding: 1rem;
+    padding-top: 3rem;
+    font-size: 1.5rem;
+}
+
+
+/* Jupiter */
+
+.Jupiter {
+    display: flex;
+    background-color: yellow;
+    align-items: center;
+}
+
+.Jupiter p {
+    text-align: justify;
+    padding: 1rem;
+    padding-top: 3rem;
+    font-size: 1.5rem;
+}
+
+.Jupiter img {
+    order: 1;
+}
+
+.Jupiter .text {
+    order: 2;
+}
+
+
+/* Saturn */
+
+.Saturn {
+    display: flex;
+    background-color: brown;
+    color: white;
+    align-items: center;
+}
+
+.Saturn p {
+    text-align: justify;
+    padding: 1rem;
+    padding-top: 3rem;
+    font-size: 1.5rem;
+}
+
+
+/* Uranus */
+
+.Uranus {
+    display: flex;
+    background-color: yellow;
+    align-items: center;
+}
+
+.Uranus p {
+    text-align: justify;
+    padding: 1rem;
+    padding-top: 3rem;
+    font-size: 1.5rem;
+}
+
+.Uranus img {
+    order: 1;
+}
+
+.Uranus .text {
+    order: 2;
+}
+
+
+/* Neptune */
+
+.Neptune {
+    display: flex;
+    background-color: brown;
+    color: white;
+    align-items: center;
+}
+
+.Neptune p {
+    text-align: justify;
+    padding: 1rem;
+    padding-top: 3rem;
+    font-size: 1.5rem;
+}
